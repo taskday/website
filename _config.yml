@@ -1,10 +1,10 @@
 # change the followings to match your Github username and repo name
-baseurl: "/tailpages" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+baseurl: "/website" # the name of your github repo
+url: "https://taskday.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Taskday: manage your day as you want"
+description: A free and open source issues and project management software
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -26,21 +26,21 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: https://twitter.com/giorgiopogliani
+facebook: false
+instagram: false
+github: https://github.com/taskday
+linkedin: false
 medium: false
 google-scholar: false
 email: false
 
 # footer information
-footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg: ""
+footer-msg-link: false
 
 # google analytics
-google-analytics: G-WCRC1TC2V5
+google-analytics: false
 
 # jekyll plugins - no need to change
 plugins:
